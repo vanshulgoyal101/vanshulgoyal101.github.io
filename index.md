@@ -1,3 +1,788 @@
-hello, vanshul this side
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
+    <meta content="" name="description" />
+    <meta content="" name="keywords" />
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon" />
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
+
+    <!-- bootstrap css-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+      rel="stylesheet"
+    />
+
+    <!-- Vendor CSS Files -->
+    <link
+      href="assets/vendor/bootstrap/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet" />
+    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet" />
+    <link
+      href="assets/vendor/owl.carousel/assets/owl.carousel.min.css"
+      rel="stylesheet"
+    />
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
+    <link href="assets/vendor/venobox/venobox.css" rel="stylesheet" />
+
+
+    <title>Vanshul Goyal</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="header-container">
+      <header id="header" class="header-tops">
+        <div class="container">
+          <div class="sticky-top">
+            <h1><a href="index.html">Vanshul Goyal</a></h1>
+          </div>
+          <h2>
+            I am an <span>Electronics n Communication</span>
+             Engineer from PEC, Chandigarh
+          </h2>
+          <!--social links-->
+          <div class="social-links">
+            <a
+              href="https://twitter.com/goyal_vanshul"
+              class="twitter"
+              target="blank"
+              ><i class="icofont-twitter"></i
+            ></a>
+            <a
+              href="https:/www.facebook.com/vanshul.goyal.007"
+              class="facebook"
+              target="blank"
+              ><i class="icofont-facebook"></i
+            ></a>
+            <a
+              href="https://www.instagram.com/vanshul_goyal/"
+              class="instagram"
+              target="blank"
+              ><i class="icofont-instagram"></i
+            ></a>
+            <a href="#" class="youtube"><i class="icofont-youtube"></i></a>
+            <a href="https://www.linkedin.com/in/vanshul-goyal00/" 
+               target="blank" class="linkedin"><i class="icofont-linkedin"></i
+              ></a>
+          </div>
+
+          <!--navigation menu-->
+          <nav class="nav-menu d-none d-lg-block">
+            <ul>
+              <li class="active"><a href="#header">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#resume">Resume</a></li>
+              <li><a href="#services">Services</a></li>
+              <li><a href="#portfolio">Portfolio</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+    </div>
+
+    <!-- --about section-- -->
+    <section class="about" id="about">
+      <div class="about-me container">
+        <div class="section-title">
+          <h2>About</h2>
+          <p>Learn more about me</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-4" data-aos="fade-right">
+            <img src="assets/img/ae.png" alt="img-fluid" />
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3>UI/UX Designer</h3>
+            <p class="font-italic">
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              Distinctio neque veniam tempora architecto culpa quam! Pariatur.
+            </p>
+
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  <li>
+                    <i class="icofont-rounded-right"></i
+                    ><strong>Birthday: </strong>30Nov, 2003
+                  </li>
+                  <li>
+                    <i class="icofont-rounded-right"></i
+                    ><strong>Website: </strong>wwww.example.com
+                  </li>
+                  <li>
+                    <i class="icofont-rounded-right"></i
+                    ><strong>Phone: </strong>+91 9999 999 999
+                  </li>
+                  <li>
+                    <i class="icofont-rounded-right"></i
+                    ><strong>City: </strong>Chandigarh, India
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+                  <li>
+                    <i class="icofont-rounded-right"></i
+                    ><strong>Age: </strong>18
+                  </li>
+                  <li>
+                    <i class="icofont-rounded-right"></i
+                    ><strong>Degree: </strong>B.Tech (PEC, Chandigarh)
+                  </li>
+                  <li>
+                    <i class="icofont-rounded-right"></i
+                    ><strong>PhEmailone: </strong>example@gmail.com
+                  </li>
+                  <li>
+                    <i class="icofont-rounded-right"></i
+                    ><strong>Freelancer: </strong>Available
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
+              pariatur fugiat earum accusamus modi dolor odio voluptate,
+              praesentium ex fuga.Lorem ipsum dolor sit amet consectetur adipisicing elit.Aperiam
+              pariatur fugiat earum accusamus modi dolor odio voluptate,
+              praesentium ex fuga.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- End About Me -->
+
+      <!-- ======= Counts ======= -->
+      <div class="counts container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            <div class="count-box">
+              <i class="icofont-simple-smile"></i>
+              <span data-toggle="counter-up">232</span>
+              <p>Happy Clients</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
+            <div class="count-box">
+              <i class="icofont-document-folder"></i>
+              <span data-toggle="counter-up">521</span>
+              <p>Projects</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="count-box">
+              <i class="icofont-live-support"></i>
+              <span data-toggle="counter-up">1,463</span>
+              <p>Hours Of Support</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="count-box">
+              <i class="icofont-users-alt-5"></i>
+              <span data-toggle="counter-up">15</span>
+              <p>Hard Workers</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Counts -->
+      <!-- ======= Skills  ======= -->
+      <div class="skills container">
+        <div class="section-title">
+          <h2>Skills</h2>
+        </div>
+
+        <div class="row skills-content">
+          <div class="col-lg-6">
+            <div class="progress">
+              <span class="skill">HTML<i class="val">1000%</i></span>
+              <div class="progress-bar-wrap">
+                <div
+                  class="progress-bar"
+                  role="progressbar"
+                  style="width: 100%"
+                  aria-valuenow="100"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">CSS <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div
+                  class="progress-bar"
+                  role="progressbar"
+                  style="width: 90%"
+                  aria-valuenow="90"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">JavaScript <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div
+                  class="progress-bar"
+                  role="progressbar"
+                  style="width: 75%"
+                  aria-valuenow="75"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="progress">
+              <span class="skill">Python <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div
+                  class="progress-bar"
+                  role="progressbar"
+                  style="width: 80%"
+                  aria-valuenow="80"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Data Science <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div
+                  class="progress-bar"
+                  role="progressbar"
+                  style="width: 90%"
+                  aria-valuenow="90"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <div class="progress-bar-wrap">
+                <div
+                  class="progress-bar"
+                  role="progressbar"
+                  style="width: 55%"
+                  aria-valuenow="55"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Skills -->
+
+      <!-- ======= Interests ======= -->
+      <div class="interests container">
+        <div class="section-title">
+          <h2>Interests</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4">
+            <div class="icon-box">
+              <i class="ri-store-line" style="color: #ffbb2c"></i>
+              <h3>Lorem Ipsum</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-bar-chart-box-line" style="color: #5578ff"></i>
+              <h3>Dolor Sitema</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-calendar-todo-line" style="color: #e80368"></i>
+              <h3>Sed perspiciatis</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <i class="ri-paint-brush-line" style="color: #e361ff"></i>
+              <h3>Magni Dolores</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-database-2-line" style="color: #47aeff"></i>
+              <h3>Nemo Enim</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-gradienter-line" style="color: #ffa76e"></i>
+              <h3>Eiusmod Tempor</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-file-list-3-line" style="color: #11dbcf"></i>
+              <h3>Midela Teren</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-price-tag-2-line" style="color: #4233ff"></i>
+              <h3>Pira Neve</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-anchor-line" style="color: #b2904f"></i>
+              <h3>Dirada Pack</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-disc-line" style="color: #b20969"></i>
+              <h3>Moton Ideal</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-base-station-line" style="color: #ff5828"></i>
+              <h3>Verdo Park</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-fingerprint-line" style="color: #29cc61"></i>
+              <h3>Flavor Nivelanda</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Interests -->
+
+      <!-- ======= Testimonials ======= -->
+      <!-- Carousel wrapper -->
+      <div
+        id="carouselMultiItemExample"
+        class="carousel slide carousel-dark text-center"
+        data-mdb-ride="carousel"
+      >
+        <!-- Controls -->
+        <div class="d-flex justify-content-center mb-4">
+          <button
+            class="carousel-control-prev position-relative"
+            type="button"
+            data-mdb-target="#carouselMultiItemExample"
+            data-mdb-slide="prev"
+          >
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button
+            class="carousel-control-next position-relative"
+            type="button"
+            data-mdb-target="#carouselMultiItemExample"
+            data-mdb-slide="next"
+          >
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+        <!-- Inner -->
+        <div class="carousel-inner py-4">
+          <!-- Single item -->
+          <div class="carousel-item active">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-4">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(1).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">Anna Deynah</h5>
+                  <p>UX Designer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Quod eos id officiis hic tenetur quae quaerat ad velit ab
+                    hic tenetur.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-4 d-none d-lg-block">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(32).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">John Doe</h5>
+                  <p>Web Developer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    Ut enim ad minima veniam, quis nostrum exercitationem ullam
+                    corporis suscipit laboriosam, nisi ut aliquid commodi.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li>
+                      <i class="fas fa-star-half-alt fa-sm"></i>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-4 d-none d-lg-block">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(10).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">Maria Kate</h5>
+                  <p>Photographer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    At vero eos et accusamus et iusto odio dignissimos ducimus
+                    qui blanditiis praesentium voluptatum deleniti atque
+                    corrupti.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="far fa-star fa-sm"></i></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Single item -->
+          <div class="carousel-item">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-4">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(3).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">John Doe</h5>
+                  <p>UX Designer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Quod eos id officiis hic tenetur quae quaerat ad velit ab
+                    hic tenetur.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-4 d-none d-lg-block">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(4).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">Alex Rey</h5>
+                  <p>Web Developer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    Ut enim ad minima veniam, quis nostrum exercitationem ullam
+                    corporis suscipit laboriosam, nisi ut aliquid commodi.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li>
+                      <i class="fas fa-star-half-alt fa-sm"></i>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-4 d-none d-lg-block">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(5).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">Maria Kate</h5>
+                  <p>Photographer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    At vero eos et accusamus et iusto odio dignissimos ducimus
+                    qui blanditiis praesentium voluptatum deleniti atque
+                    corrupti.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="far fa-star fa-sm"></i></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Single item -->
+          <div class="carousel-item">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-4">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(6).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">Anna Deynah</h5>
+                  <p>UX Designer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Quod eos id officiis hic tenetur quae quaerat ad velit ab
+                    hic tenetur.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-4 d-none d-lg-block">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(8).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">John Doe</h5>
+                  <p>Web Developer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    Ut enim ad minima veniam, quis nostrum exercitationem ullam
+                    corporis suscipit laboriosam, nisi ut aliquid commodi.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li>
+                      <i class="fas fa-star-half-alt fa-sm"></i>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="col-lg-4 d-none d-lg-block">
+                  <img
+                    class="rounded-circle shadow-1-strong mb-4"
+                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(7).webp"
+                    alt="avatar"
+                    style="width: 150px"
+                  />
+                  <h5 class="mb-3">Maria Kate</h5>
+                  <p>Photographer</p>
+                  <p class="text-muted">
+                    <i class="fas fa-quote-left pe-2"></i>
+                    At vero eos et accusamus et iusto odio dignissimos ducimus
+                    qui blanditiis praesentium voluptatum deleniti atque
+                    corrupti.
+                  </p>
+                  <ul
+                    class="list-unstyled d-flex justify-content-center text-warning mb-0"
+                  >
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="fas fa-star fa-sm"></i></li>
+                    <li><i class="far fa-star fa-sm"></i></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Inner -->
+      </div>
+      <!-- Carousel wrapper -->
+      <!-- End Testimonials  -->
+    </section>
+    
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+        <div class="section-title">
+          <h2>Services</h2>
+          <p>My Services</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4><a href="">Lorem Ipsum</a></h4>
+              <p>
+                Voluptatum deleniti atque corrupti quos dolores et quas
+                molestias excepturi
+              </p>
+            </div>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0"
+          >
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4><a href="">Sed ut perspiciatis</a></h4>
+              <p>
+                Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore
+              </p>
+            </div>
+          </div>
+
+          <div
+            class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0"
+          >
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h4><a href="">Magni Dolores</a></h4>
+              <p>
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa
+                qui officia
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-world"></i></div>
+              <h4><a href="">Nemo Enim</a></h4>
+              <p>
+                At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                blanditiis
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-slideshow"></i></div>
+              <h4><a href="">Dele cardo</a></h4>
+              <p>
+                Quis consequatur saepe eligendi voluptatem consequatur dolor
+                consequuntur
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-arch"></i></div>
+              <h4><a href="">Divera don</a></h4>
+              <p>
+                Modi nostrum vel laborum. Porro fugit error sit minus sapiente
+                sit aspernatur
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Services Section -->
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+        <!-- Vendor JS Files -->
+        <script src="assets/vendor/jquery/jquery.min.js"></script>
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+        <script src="assets/vendor/counterup/counterup.min.js"></script>
+        <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+        <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+        <script src="assets/vendor/venobox/venobox.min.js"></script>
+    
+        <!-- Template Main JS File -->
+        <script src="assets/js/main.js"></script>
+  </body>
+</html>
 
