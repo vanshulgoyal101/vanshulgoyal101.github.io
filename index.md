@@ -315,29 +315,7 @@
               <i class="ri-price-tag-2-line" style="color: #4233ff"></i>
               <h3>Sports</h3>
             </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-anchor-line" style="color: #b2904f"></i>
-              <h3>Dirada Pack</h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-disc-line" style="color: #b20969"></i>
-              <h3>Moton Ideal</h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-base-station-line" style="color: #ff5828"></i>
-              <h3>Verdo Park</h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-fingerprint-line" style="color: #29cc61"></i>
-              <h3>Flavor Nivelanda</h3>
+          
             </div>
           </div>
         </div>
