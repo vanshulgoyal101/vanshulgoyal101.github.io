@@ -101,8 +101,7 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX Designer</h3>
             <p class="font-italic">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Distinctio neque veniam tempora architecto culpa quam! Pariatur.
+                I am an 18 yr old college student, passionate about Design and Development.
             </p>
 
             <div class="row">
