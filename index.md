@@ -147,11 +147,7 @@
               </div>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-              pariatur fugiat earum accusamus modi dolor odio voluptate,
-              praesentium ex fuga.Lorem ipsum dolor sit amet consectetur adipisicing elit.Aperiam
-              pariatur fugiat earum accusamus modi dolor odio voluptate,
-              praesentium ex fuga.
+            I'm trying to improve my skills by spending time on different projects and learning from the internet. 
             </p>
           </div>
         </div>
