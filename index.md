@@ -35,7 +35,6 @@
 
     <title>Vanshul Goyal</title>
     <link rel="stylesheet" href="..assets/css/style2.css" />
-  </head>
   <body>
     <div class="header-container">
       <header id="header" class="header-tops">
