@@ -216,13 +216,13 @@
 
           <div class="col-lg-6">
             <div class="progress">
-              <span class="skill">Python <i class="val">80%</i></span>
+              <span class="skill">Python <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div
                   class="progress-bar"
                   role="progressbar"
-                  style="width: 80%"
-                  aria-valuenow="80"
+                  style="width: 100%"
+                  aria-valuenow="100"
                   aria-valuemin="0"
                   aria-valuemax="100"
                 ></div>
@@ -230,13 +230,13 @@
             </div>
 
             <div class="progress">
-              <span class="skill">Data Science <i class="val">90%</i></span>
+              <span class="skill">Data Science <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
                 <div
                   class="progress-bar"
                   role="progressbar"
-                  style="width: 90%"
-                  aria-valuenow="90"
+                  style="width: 60%"
+                  aria-valuenow="60"
                   aria-valuemin="0"
                   aria-valuemax="100"
                 ></div>
