@@ -160,43 +160,9 @@
       </div>
       <!-- End About Me -->
 
-      <!-- ======= Counts ======= -->
-      <div class="counts container">
-        <div class="row">
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box">
-              <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">232</span>
-              <p>Happy Clients</p>
-            </div>
-          </div>
+     <!-- ======= Counts ======= -->
 
-          <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
-            <div class="count-box">
-              <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">521</span>
-              <p>Projects</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="count-box">
-              <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">1,463</span>
-              <p>Hours Of Support</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="count-box">
-              <i class="icofont-users-alt-5"></i>
-              <span data-toggle="counter-up">15</span>
-              <p>Hard Workers</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- End Counts -->
+        
       <!-- ======= Skills  ======= -->
       <div class="skills container">
         <div class="section-title">
@@ -305,19 +271,19 @@
           <div class="col-lg-3 col-md-4">
             <div class="icon-box">
               <i class="ri-store-line" style="color: #ffbb2c"></i>
-              <h3>Lorem Ipsum</h3>
+              <h3>Photography</h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
             <div class="icon-box">
               <i class="ri-bar-chart-box-line" style="color: #5578ff"></i>
-              <h3>Dolor Sitema</h3>
+              <h3>Astrophysics</h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
             <div class="icon-box">
               <i class="ri-calendar-todo-line" style="color: #e80368"></i>
-              <h3>Sed perspiciatis</h3>
+              <h3>Fitness</h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
