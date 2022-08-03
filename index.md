@@ -111,15 +111,15 @@
                 <ul>
                   <li>
                     <i class="icofont-rounded-right"></i
-                    ><strong>Birthday: </strong>30Nov, 2003
+                    ><strong>Birthday: </strong>30 Nov, 2003
                   </li>
                   <li>
                     <i class="icofont-rounded-right"></i
-                    ><strong>Website: </strong>wwww.example.com
+                    ><strong>Website: </strong>wwww.vanshulgoyal101.github.io
                   </li>
                   <li>
                     <i class="icofont-rounded-right"></i
-                    ><strong>Phone: </strong>+91 9999 999 999
+                    ><strong>Phone: </strong>+91 9817528432
                   </li>
                   <li>
                     <i class="icofont-rounded-right"></i
@@ -139,11 +139,11 @@
                   </li>
                   <li>
                     <i class="icofont-rounded-right"></i
-                    ><strong>PhEmailone: </strong>example@gmail.com
+                    ><strong>Email: </strong>vanshulg101@gmail.com
                   </li>
                   <li>
                     <i class="icofont-rounded-right"></i
-                    ><strong>Freelancer: </strong>Available
+                    ><strong></strong>
                   </li>
                 </ul>
               </div>
